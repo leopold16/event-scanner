@@ -2,7 +2,8 @@
 
 A modern web application that uses computer vision and AI to automatically detect and create calendar events from text in real-time. Built with React, TypeScript, and OpenAI's GPT-4 Vision.
 
-![Event Scanner Demo](https://www.youtube.com/watch?v=BcyyYC6SNsg)
+[![Event Scanner Demo](https://img.youtube.com/vi/BcyyYC6SNsg/0.jpg)](https://www.youtube.com/watch?v=BcyyYC6SNsg)
+
 
 ## Features
 
