@@ -105,3 +105,4 @@ MIT License - feel free to use this project for your own purposes.
 - OpenAI for GPT-4 Vision API
 - Icons by Lucide React
 - UI design inspired by modern calendar applications
+- This project was part of Lydia Chilton's Generative AI class at Columbia University. Thank you to an outstanding professor!
